@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mojtaba/my_code/cmake_prj/src/main.cpp
+iostream
+-
+max_lib/max.hpp
+/home/mojtaba/my_code/cmake_prj/src/max_lib/max.hpp
+min_lib/min.hpp
+/home/mojtaba/my_code/cmake_prj/src/min_lib/min.hpp
+
+/home/mojtaba/my_code/cmake_prj/src/max_lib/max.hpp
+
+/home/mojtaba/my_code/cmake_prj/src/min_lib/min.hpp
+

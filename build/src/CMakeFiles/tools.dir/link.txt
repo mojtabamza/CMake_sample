@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libtools.a  CMakeFiles/tools.dir/max_lib/max.cpp.o CMakeFiles/tools.dir/min_lib/min.cpp.o
+/usr/bin/ranlib ../../lib/libtools.a

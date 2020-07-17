@@ -1,0 +1,6 @@
+/home/mojtaba/my_code/cmake_prj/build/CMakeFiles/edit_cache.dir
+/home/mojtaba/my_code/cmake_prj/build/CMakeFiles/rebuild_cache.dir
+/home/mojtaba/my_code/cmake_prj/build/src/CMakeFiles/edit_cache.dir
+/home/mojtaba/my_code/cmake_prj/build/src/CMakeFiles/rebuild_cache.dir
+/home/mojtaba/my_code/cmake_prj/build/src/CMakeFiles/cmake_prj.dir
+/home/mojtaba/my_code/cmake_prj/build/src/CMakeFiles/tools.dir

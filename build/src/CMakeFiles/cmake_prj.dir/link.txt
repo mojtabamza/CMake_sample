@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/cmake_prj.dir/main.cpp.o  -o ../../bin/cmake_prj ../../lib/libtools.a 
