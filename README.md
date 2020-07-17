@@ -23,5 +23,5 @@ then run	         : $make
 
 exit from build and now you can see the executable file in bin directory
 
-note: the bin and lib directories will be created automatically by CMAKE
+note: the bin and lib directories will be created automatically by CMAKE(by commands in the first CMakeLists.txt)
 
